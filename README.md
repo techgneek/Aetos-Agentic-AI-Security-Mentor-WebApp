@@ -30,31 +30,31 @@ The platform is designed as a security-first AI application, not just a generic 
 
 ### 🎙️ Voice Mentor Demo
 
-https://github.com/user-attachments/assets/abaa73ec-a809-4d4c-8f3f-8b1edf272c39
+https://github.com/user-attachments/assets/3c704dce-f18d-45ef-85d3-53286a3074e3
 
 Hands-free voice mentoring with live audio, talk-to-text, and transcript capture. This walkthrough shows how the voice path works alongside standard chat so users can move between spoken and typed guidance without losing session context.
 
 ### Chat Prompt Demo
 
-https://github.com/user-attachments/assets/944ef81e-89c7-46c0-8c64-17a31ba2235b
+https://github.com/user-attachments/assets/c4b4c89f-01c5-4c1b-ad8d-5e91a1c064de
 
 Guided prompt coaching for agentic AI security. This walkthrough shows how users can ask follow-up questions, stay anchored to a selected scenario, and use the mentor to think through secure decisions in chat.
 
 ### Common AI Security Questions
 
-https://github.com/user-attachments/assets/cfc2663c-709b-432a-b9a0-be12e4762507
+https://github.com/user-attachments/assets/0fa196e7-740c-4a93-af50-889e4096335e
 
 A practical question library for common AI security scenarios. This walkthrough shows the scenario engine, prompt selection flow, and the kinds of security questions users can practice against, including prompt injection, tool boundaries, incident response, and validation.
 
 ### AI Security Reference Library
 
-https://github.com/user-attachments/assets/a875f54e-6854-4fe8-8feb-de19fde026b7
+https://github.com/user-attachments/assets/bb713439-8ecf-4d10-a643-f1ba57c8d26b
 
 A searchable reference library for OWASP LLM, OWASP Agentic AI, MITRE ATLAS, and related guidance. This walkthrough shows how users map questions back to controls, mitigations, and framework language during mentoring and review.
 
 ### Compliance Evidence & Red-Team Audit Flow
 
-https://github.com/user-attachments/assets/1f47d79a-28a2-494a-89ed-28b2e0bcbc60
+https://github.com/user-attachments/assets/2bd0361f-a5cf-42d9-b0de-4b1b56c1726c
 
 A combined compliance and red-team evidence view. This walkthrough shows how the app captures audit records, preserves evidence, and summarizes validation outcomes for review and follow-up.
 
